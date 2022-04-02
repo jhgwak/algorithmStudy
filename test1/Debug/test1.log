@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(248,24): warning C4101: 'elapsed_time2' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(247,20): warning C4101: 't_diff2' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(246,67): warning C4101: 't_after2' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(248,39): warning C4101: 'elapsed_time3' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(246,23): warning C4101: 'freq2' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(246,88): warning C4101: 't_after3' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(246,77): warning C4101: 't_before3' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(246,57): warning C4101: 't_before2' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(247,29): warning C4101: 't_diff3' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk37\OneDrive\바탕 화면\test1\main.cpp(246,30): warning C4101: 'freq3' :참조되지 않은 지역 변수입니다.
+  test1.vcxproj -> C:\Users\jhk37\OneDrive\바탕 화면\test1\Debug\test1.exe
